@@ -1,0 +1,14 @@
+.list {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.link {
+  color: white;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+  background-color: #333;
+  transition: background-color 300ms, color 300ms;
+}
